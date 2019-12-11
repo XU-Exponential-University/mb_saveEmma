@@ -47,3 +47,7 @@ Es schließen mehr und mehr Grundschulen. Schulwege werden länger = we need bus
 https://waldeck-schule.de/index.php?Ergebnisse%2BFrageb%25C3%25B6gen
 ![waldeck-statistic](./ressources/images/waldeck-statistic.png)
 
+672 MILLIONEN KG CO2
+376 MILLIONEN EURO SPRITGELD
+
+^die 4,5 kann man nicht laufen.
